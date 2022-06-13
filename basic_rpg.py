@@ -33,6 +33,6 @@ if choice5 == "não":
                         choice5_2_3 = input("Estou indo agora mesmo nos aposentos do General, preciso esclarecer este assunto antes que seja tarde demais.\nVocê chega nos aposentos do General. General: O que houve garoto? parece que você viu um fantasma hahaha (senhor...)")
                         if choice5_2_3 == "senhor":
                             print("General: O que você encontrou garoto?\nSão documentos com nossas estratégias de guerra senhor, estavam no aposento do Comandante, parece que o Agente do governo que veio aqui mais cedo deixou essa papelada lá!\nGeneral:Porra garoto, deveria ter começado com isso!")
-                            print("Parabéns você nos salvou termos uma derrota certeira no dia de amanhã")
+                            print("Parabéns você nos salvou de termos uma derrota certeira no dia de amanhã")
 if choice5 == "sim":
     print("Você segue o Agente longe o suficiente para ele não te notar, mas isso não adianta muito, ele armou uma emboscada pra você, você foi inocente demais otário.")
