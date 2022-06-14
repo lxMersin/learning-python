@@ -13,7 +13,7 @@ if choice3 =="sim":
         print("Comandante: O que você acha que ta fazendo recruta? - O som de 3 tiros de uma pistola foi a última coisa que você ouviu antes de morre... GAME OVER")
 if choice3 =="não":
         print("Comandante: É recruta, parece que os tempos estão mudando, me lembro do James cantando as músicas da Adele, totalmente desafinando, mas cantando com alegria,\ncomo se fosse no almoço de hoje.")
-choice4 = input("Comandante: Ao terminar de jantar você ir pra academia ou irá direto pra cama? (responda, academia ou cama) ")
+choice4 = input("Comandante: Ao terminar de jantar você vai ir pra academia ou irá direto pra cama? (responda, academia ou cama) ")
 if choice4 == "academia":
         print("Comandante: Ótima decisão recruta, mas vê se não se sobrecarregue, precisamos de nossas energias para o dia de amanhã")
 if choice4 == "cama":
